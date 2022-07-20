@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546517204035",
+    "project_id": "juschat-81dad",
+    "storage_bucket": "juschat-81dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546517204035:android:7250e9a7076098bf0ce8f6",
+        "android_client_info": {
+          "package_name": "com.example.juschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546517204035-bsoi2f2fqpfc5c6fpo2ml1oaqreug4br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juschat",
+            "certificate_hash": "aa89993b900e688775f57c27623471c89d7493de"
+          }
+        },
+        {
+          "client_id": "546517204035-bfc8a7npo4rfneot74rea0ledi7g8o82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABvWU0koDUXCOe_wVfOxj1bpL4GWt9mnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546517204035-bfc8a7npo4rfneot74rea0ledi7g8o82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
